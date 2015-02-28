@@ -1,0 +1,2 @@
+Demonstrate the Reader-Writer Problem solution by creating multiple processes and share
+regions or blocks. Use 64-bit Linux derivative and tools for implementation.
